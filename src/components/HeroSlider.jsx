@@ -44,7 +44,7 @@ function HeroSlider() {
                 <p>Windows Xp/10/7/8 Ps3, Tv Box</p>
                 <Link to="/" className='btn'>Shop Now</Link>
               </div>
-              <img src="https://res-console.cloudinary.com/ddrmufyht/thumbnails/v1/image/upload/v1779830135/YmFubmVyX0hlcm8yX25icTdmcg==/grid_landscape" alt="slider hero 2" />
+              <img src="https://res.cloudinary.com/ddrmufyht/image/upload/v1779830135/banner_Hero2_nbq7fr.jpg" alt="slider hero 2" />
             </SwiperSlide>
 
             <SwiperSlide>
