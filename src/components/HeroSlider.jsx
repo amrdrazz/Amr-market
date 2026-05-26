@@ -34,7 +34,7 @@ function HeroSlider() {
                 <p>Windows Xp/10/7/8 Ps3, Tv Box</p>
                 <Link to="/" className='btn'>Shop Now</Link>
               </div>
-              <img src="/src/img/banner_Hero1.jpg" alt="slider hero 1" />
+              <img src="./src/img/banner_Hero1.jpg" alt="slider hero 1" />
             </SwiperSlide>
 
             <SwiperSlide>
@@ -44,7 +44,7 @@ function HeroSlider() {
                 <p>Windows Xp/10/7/8 Ps3, Tv Box</p>
                 <Link to="/" className='btn'>Shop Now</Link>
               </div>
-              <img src="/src/img/banner_Hero2.jpg" alt="slider hero 1" />
+              <img src="./src/img/banner_Hero2.jpg" alt="slider hero 1" />
             </SwiperSlide>
 
             <SwiperSlide>
@@ -54,7 +54,7 @@ function HeroSlider() {
                 <p>Windows Xp/10/7/8 Ps3, Tv Box</p>
                 <Link to="/" className='btn'>Shop Now</Link>
               </div>
-              <img src="/src/img/banner_Hero3.jpg" alt="slider hero 1" />
+              <img src="./src/img/banner_Hero3.jpg" alt="slider hero 1" />
             </SwiperSlide>
 
           </Swiper>
