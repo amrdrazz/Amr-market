@@ -34,7 +34,7 @@ function HeroSlider() {
                 <p>Windows Xp/10/7/8 Ps3, Tv Box</p>
                 <Link to="/" className='btn'>Shop Now</Link>
               </div>
-              <img src="https://res.cloudinary.com/ddrmufyht/image/upload/v1779830134/banner_Hero1_refzw5.jpg" alt="slider hero 1" />
+              <img src="https://res.cloudinary.com/ddrmufyht/image/upload/v1786013464/banner_Hero1_a7f0cc.jpg" alt="slider hero 1" />
             </SwiperSlide>
 
             <SwiperSlide>
@@ -44,7 +44,7 @@ function HeroSlider() {
                 <p>Windows Xp/10/7/8 Ps3, Tv Box</p>
                 <Link to="/" className='btn'>Shop Now</Link>
               </div>
-              <img src="https://res.cloudinary.com/ddrmufyht/image/upload/v1779830135/banner_Hero2_nbq7fr.jpg" alt="slider hero 2" />
+              <img src="https://res.cloudinary.com/ddrmufyht/image/upload/v1786013502/banner_Hero2_ziwhak.jpg" alt="slider hero 2" />
             </SwiperSlide>
 
             <SwiperSlide>
@@ -54,7 +54,7 @@ function HeroSlider() {
                 <p>Windows Xp/10/7/8 Ps3, Tv Box</p>
                 <Link to="/" className='btn'>Shop Now</Link>
               </div>
-              <img src="https://res.cloudinary.com/ddrmufyht/image/upload/v1779830111/banner_Hero3_rmzda1.jpg" alt="slider hero 3" />
+              <img src="https://res.cloudinary.com/ddrmufyht/image/upload/v1786013515/banner_Hero3_y0sjkk.jpg" alt="slider hero 3" />
             </SwiperSlide>
 
           </Swiper>
